@@ -1,4 +1,3 @@
 hi this is file is created for practise purpose
 i am writing this
-i am just updating this file
-this is line is added now 
+i am just updating this file 
